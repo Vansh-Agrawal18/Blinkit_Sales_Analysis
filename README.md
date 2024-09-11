@@ -1,6 +1,6 @@
-# Blinkit Power BL Sales Dashboard
+# Blinkit Power BI Sales Dashboard
 ## Overview
-Welcome to the Blinkit Power BL Sales Dashboard repository! This powerful tool is designed to provide a comprehensive and detailed view of our sales performance. The dashboard enables teams to make data-driven decisions by offering clear insights into various Key Performance Indicators (KPIs) and additional analytical metrics.
+Welcome to the Blinkit Power BI Sales Dashboard repository! This powerful tool is designed to provide a comprehensive and detailed view of our sales performance. The dashboard enables teams to make data-driven decisions by offering clear insights into various Key Performance Indicators (KPIs) and additional analytical metrics.
 
 ## Key Features
 The dashboard features an intuitive, user-friendly design that allows users to drill down into the details of sales performance. The key metrics include:
@@ -36,3 +36,7 @@ Evaluates the impact of outlet age and setup on sales, assisting in optimizing o
 
 ## Total Sales by Outlet Size: 📏
 Assesses how outlet size influences total sales, providing insights for scaling and expansion strategies.
+
+## Conclusion
+The Blinkit Power BI Sales Dashboard is an essential tool for understanding and optimizing our sales performance. By leveraging the comprehensive KPIs and detailed analysis points, teams can make informed decisions that drive growth and enhance business strategies. The dashboard’s user-friendly design ensures that actionable insights are easily accessible, facilitating efficient decision-making processes.
+
